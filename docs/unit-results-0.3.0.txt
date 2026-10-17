@@ -1,0 +1,8 @@
+
+name                            tests failures errors
+----                            ----- -------- ------
+cn.riyousuode.app.CountdownTest 6     0        0
+cn.riyousuode.app.EngineTest    10    0        0
+cn.riyousuode.app.UpgradeTest   9     0        0
+
+

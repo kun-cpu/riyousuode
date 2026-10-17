@@ -1,0 +1,3 @@
+PASS: signed 0.2.0 -> signed 0.3.0 installed with adb install -r, without uninstall.
+Dedicated emulator used a seeded v2 Room fixture, opened by 0.2.0 before upgrade.
+After first 0.3.0 launch: schema v3, task retained, money 1234 cents retained, legacy goal active unchanged, pending goal reward retained, countdown list empty, countdown navigation visible.

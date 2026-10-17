@@ -1,0 +1,4 @@
+cn.riyousuode.app.CountdownTest: 6 tests, 0 failures, 0 errors
+cn.riyousuode.app.DailyRolloverTest: 8 tests, 0 failures, 0 errors
+cn.riyousuode.app.EngineTest: 10 tests, 0 failures, 0 errors
+cn.riyousuode.app.UpgradeTest: 9 tests, 0 failures, 0 errors

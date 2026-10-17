@@ -1,0 +1,2 @@
+PASS: signed 0.3.1 -> signed 0.3.2 upgrade with install -r, no uninstall.
+Dedicated emulator: seeded v3 records opened in 0.3.1, then first 0.3.2 launch expires yesterday daily entry once (-5 points, one pending penalty); creates independent daily entry for today; once entry remains pending with original date and no duplicate. Money 1234 cents retained.

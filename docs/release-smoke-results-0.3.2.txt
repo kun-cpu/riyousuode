@@ -1,0 +1,9 @@
+Starting: Intent { cmp=cn.riyousuode.app/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: cn.riyousuode.app/.MainActivity
+TotalTime: 634
+WaitTime: 639
+Complete
+
+PASS: final signed APK fresh install, cold launch and five-tab empty task screen.

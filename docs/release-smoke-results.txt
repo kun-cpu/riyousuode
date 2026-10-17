@@ -1,0 +1,1 @@
+Release APK: fresh install and cold launch PASS; empty state PASS; create task PASS; same-signature reinstall preserves task PASS.

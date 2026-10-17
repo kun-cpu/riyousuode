@@ -1,0 +1,22 @@
+.gradle/
+.tools/
+local.properties
+**/build/
+*.jks
+*.keystore
+.idea/
+
+# Local credentials and personal data
+.env
+.env.*
+*.p12
+*.pfx
+*.key
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+
+# Distribute installation/source archives through GitHub Releases
+dist/*.apk
+dist/*.zip

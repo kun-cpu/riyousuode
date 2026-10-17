@@ -1,0 +1,1 @@
+PASS: 0.1.0 release upgraded to 0.2.0 release without uninstall. Legacy task UpgradeCheck retained; accounting tab present.
